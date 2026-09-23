@@ -1,0 +1,11 @@
+"feature","adoption_status","users","retained_30d_users","retention_30d_rate"
+Integration Connected,Adopted,2591,729,28.14
+Integration Connected,Not Adopted,2409,420,17.43
+Scheduled Automation,Adopted,255,129,50.59
+Scheduled Automation,Not Adopted,4745,1020,21.50
+Teammate Invited,Adopted,533,215,40.34
+Teammate Invited,Not Adopted,4467,934,20.91
+Template Used,Adopted,1375,474,34.47
+Template Used,Not Adopted,3625,675,18.62
+Workflow Shared,Adopted,250,117,46.80
+Workflow Shared,Not Adopted,4750,1032,21.73

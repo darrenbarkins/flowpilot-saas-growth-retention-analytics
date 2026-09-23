@@ -1,0 +1,9 @@
+"metric","control_rate","treatment_rate","absolute_lift_pp","p_value","significance"
+Activation,35.62,36.82,1.21,0.7606,Not Significant
+"7-Day Retention",38.70,43.92,5.22,0.1987,Not Significant
+"30-Day Retention",26.03,26.69,0.66,0.8555,Not Significant
+Integration Connection,52.40,48.31,-4.09,0.3217,Not Significant
+Template Adoption,28.08,25.00,-3.08,0.3973,Not Significant
+Paid Conversion,11.30,12.50,1.20,0.6536,Not Significant
+Support Ticket Rate,0.34,0.00,-0.34,0.3136,Not Significant
+Cancellation Rate,1.71,1.69,-0.02,0.9827,Not Significant

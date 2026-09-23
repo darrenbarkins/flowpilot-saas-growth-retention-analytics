@@ -1,0 +1,11 @@
+"churn_type","category","total_records","churned_records","metric_value"
+Cancellation Reason,Too Expensive,,25,28.09
+Cancellation Reason,Low Usage,,19,21.35
+Cancellation Reason,Missing Features,,15,16.85
+Cancellation Reason,Poor Onboarding,,9,10.11
+Cancellation Reason,Technical Issues,,7,7.87
+Cancellation Reason,No Longer Needed,,5,5.62
+Cancellation Reason,Switched to Competitor,,5,5.62
+Cancellation Reason,Other,,4,4.49
+Plan,Pro,265,72,27.17
+Plan,Business,80,17,21.25
